@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1018803112727",
+    "firebase_url": "https://tugasakhir-585e2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tugasakhir-585e2",
+    "storage_bucket": "tugasakhir-585e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018803112727:android:cf4ed243544345f51fc552",
+        "android_client_info": {
+          "package_name": "id.ac.usm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWhgAFS4sbZfQaWOfBrT18j4BSq0gYQC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
